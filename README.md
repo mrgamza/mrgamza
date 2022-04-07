@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mrgamza
-- 👀 I’m interested in new.
+- 👋 Hi, I’m Donghyuk.
 
 <!---
 mrgamza/mrgamza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
